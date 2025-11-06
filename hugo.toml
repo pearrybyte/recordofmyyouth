@@ -1,0 +1,30 @@
+baseURL = 'https://pearrybyte.github.io/my-site/'
+languageCode = 'en-us'
+title = 'ChoowaChups'
+theme = 're-terminal'
+[params]
+  # Set your preferred color theme
+  # Options: blue, green, orange, pink, red
+  themeColor = 'blue'
+  
+  # Show/hide the logo
+  showMenuItems = 4
+  
+  # Enable/disable full screen width
+  fullWidthTheme = false
+  
+  # Center the theme
+  centerTheme = true
+
+# Menu items
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 1
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts"
+  weight = 2
