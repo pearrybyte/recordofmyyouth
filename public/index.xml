@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Website</title>
+    <title>ChoopuChups</title>
     <link>http://localhost:1313/my-site/</link>
-    <description>Recent content on My Website</description>
+    <description>Recent content on ChoopuChups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Nov 2025 18:28:17 -0800</lastBuildDate><atom:link href="http://localhost:1313/my-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>Hewwo World</title>
       <link>http://localhost:1313/my-site/posts/first-post/</link>
       <pubDate>Wed, 05 Nov 2025 18:28:17 -0800</pubDate>
       
       <guid>http://localhost:1313/my-site/posts/first-post/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/my-site/posts/hello-world/</link>
-      <pubDate>Wed, 05 Nov 2025 18:21:09 -0800</pubDate>
-      
-      <guid>http://localhost:1313/my-site/posts/hello-world/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/my-site/about/</link>
-      <pubDate>Wed, 05 Nov 2025 18:20:49 -0800</pubDate>
-      
-      <guid>http://localhost:1313/my-site/about/</guid>
-      <description></description>
-      <content></content>
+      <description>&lt;p&gt;hi guysssss :3 i am so happeh to have made this website!!! couldn&amp;rsquo;t have done it without namecrisis. everything is gonna be so awesome..! :D&lt;/p&gt;</description>
+      <content>&lt;p&gt;hi guysssss :3 i am so happeh to have made this website!!! couldn&amp;rsquo;t have done it without namecrisis. everything is gonna be so awesome..! :D&lt;/p&gt;
+</content>
     </item>
     
   </channel>

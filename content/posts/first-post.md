@@ -1,13 +1,13 @@
 +++
 title = "Hewwo World"
 date = "2025-11-05T18:28:17-08:00"
-author = ""
+author = "ChoopaChups"
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = "heeeeeeeyyyyyyyyyy"
+tags = ""
+keywords = ""
+description = ":]"
 showFullContent = false
 readingTime = false
 hideComments = false
