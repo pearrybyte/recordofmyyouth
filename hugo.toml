@@ -7,3 +7,14 @@ theme = 'hugo-theme-re-terminal'
     dir = ':cacheDir/images'
 [params]
   customCSS = ["css/custom.css"]
+
+  images = ["images/site-preview.jpg"]
+
+
+[params.opengraph]
+  image = "images/site-preview.jpg"
+  image_alt = "Your Site Description"
+
+
+[params.twitter]
+  image = "images/site-preview.jpg"
